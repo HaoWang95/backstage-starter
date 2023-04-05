@@ -1,9 +1,10 @@
 app:
   title: Scaffolded Backstage App
+  # Do not change baseUrl for now
   baseUrl: http://localhost:3000
 
 organization:
-  name: My Company
+  name: Alwang Backstage starter
 
 backend:
   # Used for enabling authentication, secret is shared by all backend plugins
